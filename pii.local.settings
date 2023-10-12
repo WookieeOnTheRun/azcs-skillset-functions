@@ -1,0 +1,10 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=searchfoiademostorage;AccountKey=udnoH9WDJXybUOqeLSZUzZ+vOClUjogylOv0ro60b0xrvOvdG26yins9/QGU7XDx88qb8iG14YrQ+ASthygjmg==;EndpointSuffix=core.usgovcloudapi.net",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "LanguageEndpoint": "<Language Service Endpoint>",
+    "LanguageKey": "<Language Service Key>",
+    "AzureWebJobs.azfnPIIDetect.Disabled": "false"
+  }
+}
